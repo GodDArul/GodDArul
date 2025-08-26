@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![GodDArul](github-header-banner%20(1).png)
+![GodDArul](img/github-header-banner%20(1).png)
