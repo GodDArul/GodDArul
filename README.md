@@ -21,3 +21,10 @@ Let’s collaborate, build something meaningful, and squash those bugs together!
     <img src="https://skillicons.dev/icons?i=git,wordpress,vscode,html,css,php" />
   </a>
 </p>
+
+## 🌏GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GodDArul&theme=aura&hide_border=false&include_all_commits=true&count_private=false" width="430" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GodDArul&theme=aura&hide_border=false" width="430" />
+</p>
